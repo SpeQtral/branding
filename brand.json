@@ -1,0 +1,177 @@
+{
+    "name": "SpeQtral",
+    "domain": "speqtral.space",
+    "description": "SpeQtral is developing space-based quantum systems for the global delivery of secure encryption keys.",
+    "claimed": false,
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/speqtral_space"
+        },
+        {
+            "name": "linkedin",
+            "url": "https://www.linkedin.com/company/speqtral/"
+        },
+        {
+            "name": "youtube",
+            "url": "https://www.youtube.com/channel/UCfzbeg-GSO9mrsl5MVzLOig"
+        },
+        {
+            "name": "instagram",
+            "url": "https://www.instagram.com/speqtral/"
+        },
+        {
+            "name": "github",
+            "url": "https://github.com/SpeQtral"
+        }
+    ],
+    "logos": [
+        {
+            "type": "logo",
+            "theme": "null",
+            "formats": [
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/logo/default.svg",
+                    "format": "svg",
+                    "background": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/logo/default.png",
+                    "format": "png",
+                    "background": null,
+                    "width": 1115,
+                    "height": 301
+                }
+            ]
+        },
+        {
+            "type": "logo",
+            "theme": "light",
+            "formats": [
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/logo/light.svg",
+                    "format": "svg",
+                    "background": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/logo/light.png",
+                    "format": "png",
+                    "background": null,
+                    "width": 1115,
+                    "height": 301
+                }
+            ]
+        },
+        {
+            "type": "logo",
+            "theme": "dark",
+            "formats": [
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/logo/dark.svg",
+                    "format": "svg",
+                    "background": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/logo/dark.png",
+                    "format": "png",
+                    "background": null,
+                    "width": 1115,
+                    "height": 301
+                }
+            ]
+        },
+        {
+            "type": "symbol",
+            "theme": "null",
+            "formats": [
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/symbol/default.svg",
+                    "format": "svg",
+                    "background": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/symbol/default.svg",
+                    "format": "png",
+                    "background": null,
+                    "width": 1115,
+                    "height": 301
+                }
+            ]
+        },
+        {
+            "type": "symbol",
+            "theme": "dark",
+            "formats": [
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/symbol/dark.svg",
+                    "format": "svg",
+                    "background": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/symbol/dark.svg",
+                    "format": "png",
+                    "background": null,
+                    "width": 1115,
+                    "height": 301
+                }
+            ]
+        },
+        {
+            "type": "symbol",
+            "theme": "light",
+            "formats": [
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/symbol/light.svg",
+                    "format": "svg",
+                    "background": null
+                },
+                {
+                    "src": "https://raw.githubusercontent.com/SpeQtral/branding/main/logos/symbol/light.svg",
+                    "format": "png",
+                    "background": null,
+                    "width": 1115,
+                    "height": 301
+                }
+            ]
+        }
+    ],
+    "colors": [
+        {
+            "hex": "#071A6D",
+            "type": "accent"
+        },
+        {
+            "hex": "#3C3D3E",
+            "type": "brand"
+        },
+        {
+            "hex": "#2741AE",
+            "type": "brand"
+        },
+        {
+            "hex": "#23CBCA",
+            "type": "brand"
+        },
+        {
+            "hex": "#540884",
+            "type": "brand"
+        },
+        {
+            "hex": "#FF9F10",
+            "type": "brand"
+        }
+    ],
+    "fonts": [
+        {
+            "name": "Segoe UI Bold",
+            "type": "title",
+            "origin": "system"
+        },
+        {
+            "name": "Segoe UI Semilight",
+            "type": "body",
+            "origin": "system"
+        }
+    ],
+    "images": []
+}
